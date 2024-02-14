@@ -257,12 +257,10 @@ color: #000000;
   font-weight: 700;
   line-height: 78px;
   color: #FFFFFF;
-  background-color: #82B3D3;
 }
 
 .breadcrumbs {
   color: #FFFFFF;
-  background-color: #82B3D3;
 }
 
 .breadcrumbs-link {
@@ -276,12 +274,10 @@ color: #000000;
   line-height: 24px;
   text-transform: capitalize;
   color: #FFFFFF;
-  background-color: #82B3D3;
 }
 
 .catalog-filter-item {
   color: #FFFFFF;
-  background-color: #82B3D3;
   font-size: 18px;
   line-height: 23px;
 }
